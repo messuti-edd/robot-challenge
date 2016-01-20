@@ -1,9 +1,5 @@
 # Robot Challenge
 
-```
-Creator: Eduardo Messuti
-```
-
 ### Testing
 
 Run `./test.sh`
